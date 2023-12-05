@@ -1,1 +1,1 @@
-# bin_picking_open_manipulator
+# bin_picking
